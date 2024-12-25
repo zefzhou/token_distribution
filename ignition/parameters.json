@@ -3,5 +3,8 @@
     "LockModule": {
         "unlockTime": 1893456000,
         "lockedAmount": "1000000000n"
+    },
+    "TokenDistributorModule": {
+        "claimer": "0x358978d99a770C213c785064807363070aDeB776"
     }
 }
